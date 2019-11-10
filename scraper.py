@@ -78,7 +78,6 @@ def crawl(token, channel, legco_api_token, year):
                                     text=text
                             )
                         print(text)
-                        return
                     else:
                         print('%s already loaded to API server.' % key )
 
