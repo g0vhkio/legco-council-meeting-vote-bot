@@ -1,4 +1,4 @@
-requests==2.18.4
+requests==2.20.0
 pytz==2017.3
 pillow==5.2.0
 slackclient==1.2.0
